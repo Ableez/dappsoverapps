@@ -1,0 +1,42 @@
+[
+  {
+    "status": "Upcoming",
+    "title": "Arbitrum Stylus Workshop",
+    "description": "Join us for an immersive hands-on workshop exploring Arbitrum Stylus, the revolutionary WebAssembly VM that enables developers to write smart contracts in Rust, C, and C++.\n\nLearn how to **optimize gas costs** and leverage existing codebases in the Arbitrum ecosystem.",
+    "coverImage": "/images/events/image.png",
+    "time": "2:00 PM - 5:30 PM",
+    "date": "2023-11-15",
+    "location": "ETH Denver Hub, Colorado",
+    "link": "https://arbitrum.foundation/stylus-workshop"
+  },
+  {
+    "status": "Upcoming",
+    "title": "DeFi Integration Summit",
+    "description": "A comprehensive two-day summit focused on **DeFi protocol integration** and cross-chain interoperability. Network with leading builders and investors while exploring the future of decentralized finance.",
+    "coverImage": "/images/events/WhatsApp Image 2025-04-03 at 22.38.35_e5c57cdc.png",
+    "time": "9:00 AM - 6:00 PM",
+    "date": "2023-12-07",
+    "location": "Marina Bay Sands, Singapore",
+    "link": "https://defi-summit.io"
+  },
+  {
+    "status": "Upcoming",
+    "title": "Zero Knowledge Hackathon",
+    "description": "Build privacy-preserving applications using **zero-knowledge proofs** and contribute to the next generation of Web3 infrastructure. $50,000 in prizes for the most innovative solutions.",
+    "coverImage": "/images/events/image.png",
+    "time": "Starts at 10:00 AM",
+    "date": "2024-01-20",
+    "location": "Virtual Event",
+    "link": "https://zk-hack.org"
+  },
+  {
+    "status": "Ongoing",
+    "title": "Open Web Tour Hackathon",
+    "description": "A global, six-week hackathon series spanning three continents to fuel the *future of blockchain technology*. Build **transformative decentralized applications** with mentorship from core protocol developers and compete for a $250,000 prize pool.",
+    "coverImage": "/images/events/Arbitrm Creative Hub Hackathon hackathon.png",
+    "time": "Running until December 15",
+    "date": "Oct 15 - Dec 15, 2023",
+    "location": "London, Singapore, San Francisco",
+    "link": "https://openwebtour.dev"
+  }
+]
